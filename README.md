@@ -1,4 +1,4 @@
-# 💫 Hi There !
+#  🖐️ Hi There !
 I'm Mehdi Delfani, a passionate AI Developer and Robotics Enthusiast with a lovefor blending Artificial Intelligence and Electronics to create innovative solutions. I strive to push the boundaries of technology through my projects and share my journey with the community.
 
 ## 💫 About Me:
