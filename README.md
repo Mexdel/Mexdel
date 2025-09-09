@@ -22,7 +22,7 @@ I believe continuous learning and growth are the keys to success in this dynamic
 
 ## Contact Me
 
-For collaboration, inquiries, or any questions, feel free to reach out to me via Telegram:
+For collaboration, inquiries, or any questions, feel free to reach out to me via Gmail:
 
 [Gmail](themexdel@gmail.com)
 
