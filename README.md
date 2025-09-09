@@ -1,14 +1,32 @@
-#  🖐️ Hi There !
-I'm Mehdi Delfani, a passionate AI Developer and Robotics Enthusiast with a lovefor blending Artificial Intelligence and Electronics to create innovative solutions. I strive to push the boundaries of technology through my projects and share my journey with the community.
+# Software Engineer & AI Enthusiast
 
-## 💫 About Me:
-I believe in the power of continuons learning and exploring new horizons. When I'm not coding, you can find me experimenting with hardvare projects, diving into new technologies, or taking long walks to clear my mind. I live for the challenge of solving complex problems and turning ideas into reality. Life is all about balance-bitween work and play, theory and practice. I embrace a hand-on approach to learning, preferring to optimize and upgrade existing modules to create mor efficient, innovative, and reliable solutions rather then building everything from scratch. This Method allows me to leverage proven technologies and focus on pushing boundaries with new discoveries.
+Welcome,
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+I am Mehdi Delfani, a software engineer and developer with over 4 years of experience in programming and artificial intelligence. I have worked with various programming languages including Python, Java, C++, and C#, with a strong focus on automation, computer vision, and game development using Unity.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhdidelfan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29286812) 
+As the founder of **MexDel**, a company specializing in AI, electronics, and the production of humanoid intelligent robots, I also lead a subsidiary named **MexDel Gamez** dedicated to developing Windows video games.
+
+I believe continuous learning and growth are the keys to success in this dynamic field. Therefore, I constantly strive to expand my knowledge and create innovative solutions to automate processes and build valuable products.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mexdel&icon=5&color=0)](https://visitcount.itsvg.in)
+
+## Skills and Technologies
+
+- Programming Languages: Python (expertise), Java, C++, C#
+- Frameworks and Libraries: OpenCV, Requests, Telebot, Unity Engine
+- Areas of Expertise: Artificial Intelligence, Computer Vision, Game Development, Software Development
+- Tools and Software: Photoshop, Blender (3D modeling)
+- Version Control: Familiar with Git and version control concepts
+
+---
+
+## Contact Me
+
+For collaboration, inquiries, or any questions, feel free to reach out to me via Telegram:
+
+[Gmail](themexdel@gmail.com)
+
+---
+
+Thank you for taking the time to visit my profile.  
+I look forward to new opportunities and exciting challenges.
